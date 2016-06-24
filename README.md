@@ -1,2 +1,2 @@
 # RF
-Simple Random Forest Implementations
+Random Forest Implementations with coreLearn in R, needed for exercise.
